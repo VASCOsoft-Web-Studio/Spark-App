@@ -1,9 +1,9 @@
 {
-    "name": "codeigniter4/appstarter",
-    "type": "project",
-    "description": "CodeIgniter4 starter app",
-    "homepage": "https://codeigniter.com",
-    "license": "MIT",
+    "name": "Spark App",
+    "type": "Project",
+    "description": "The Ultimate Complete Modular CodeIgniter 4 Starter Application Kit",
+    "homepage": "https://github.com/VASCOsoft-Web-Studio/Spark-App",
+    "license": "GNU General Public License v3.0",
     "require": {
         "php": "^7.3 || ^8.0",
         "codeigniter4/framework": "^4"
