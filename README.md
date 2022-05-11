@@ -1,4 +1,5 @@
-# [**Fuse App**](https://github.com/VASCOsoft-Web-Studio/Fuse-App)
+# [**Spark App**](https://github.com/VASCOsoft-Web-Studio/Spark-App)
+
 The Ultimate Complete Modular CodeIgniter 4 Starter Application Kit
 
 ## **Features**
@@ -6,6 +7,7 @@ The Ultimate Complete Modular CodeIgniter 4 Starter Application Kit
 - [CodeIgniter 4](https://codeigniter.com)
 - [Tailwind 3](https://tailwindcss.com)
 - [DaisyUI](https://daisyui.com) Component Library
+- [Alpine.js](https://alpinejs.dev/)
 - [Myth:Auth](https://github.com/lonnieezell/myth-auth) Authentication
 - User Flow
 - Admin Layer
@@ -30,7 +32,7 @@ The Ultimate Complete Modular CodeIgniter 4 Starter Application Kit
 - [Vite](https://vitejs.dev) (React, Angular, Vue, Svelte) - Coming Soon
 - [SvelteKit](https://kit.svelte.dev) - Coming Soon
 
-## **SITEMAP**
+## **Sitemap**
 
 | Page     | Route     |
 | -------- | --------- |
